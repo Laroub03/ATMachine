@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\ATMachine\ATMachine\bin\Debug\ATMachine.dll
+C:\Users\Administrator\source\repos\ATMachine\ATMachine\bin\Debug\ATMachine.pdb
+C:\Users\Administrator\source\repos\ATMachine\ATMachine\obj\Debug\ATMachine.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ATMachine\ATMachine\obj\Debug\ATMachine.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ATMachine\ATMachine\obj\Debug\ATMachine.dll
+C:\Users\Administrator\source\repos\ATMachine\ATMachine\obj\Debug\ATMachine.pdb
