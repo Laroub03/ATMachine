@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMachine", "ATMachine\ATMachine.csproj", "{63A37A44-58CE-46A8-9356-E5001917B2CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMachine.Tests", "ATMachine.Tests\ATMachine.Tests.csproj", "{43F53A92-1CF1-458C-AEBB-433D04113E93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A37A44-58CE-46A8-9356-E5001917B2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A37A44-58CE-46A8-9356-E5001917B2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A37A44-58CE-46A8-9356-E5001917B2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A37A44-58CE-46A8-9356-E5001917B2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F53A92-1CF1-458C-AEBB-433D04113E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F53A92-1CF1-458C-AEBB-433D04113E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F53A92-1CF1-458C-AEBB-433D04113E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F53A92-1CF1-458C-AEBB-433D04113E93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4BC3D3C-C665-4A12-8761-7FB5F713C614}
+	EndGlobalSection
+EndGlobal
